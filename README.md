@@ -1,6 +1,7 @@
 # DiskCord
 DiskCord, the ultimate tool for effortlessly replicating your Discord server!
-```diskcord/
+```
+diskcord/
 │
 ├── main.py
 ext/
